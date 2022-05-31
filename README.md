@@ -11,7 +11,7 @@
 
 -------
 
-[![Linkedin Badge](https://img.shields.io/badge/-sergey--lobanov-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergey--lobanov/)](https://www.linkedin.com/in/logunovdanila/)
+[![Linkedin Badge](https://img.shields.io/badge/-sergey--lobanov-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergey--lobanov/)](https://www.linkedin.com/in/sergey--lobanov/)
 [![Telegram Badge](https://img.shields.io/badge/-ln__sergey-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/ln_sergey)](https://t.me/ln_sergey)
 [![Instagram Badge](https://img.shields.io/badge/-ln__sergey-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ln_sergey/)](https://www.instagram.com/ln_sergey/)
 [![Gmail Badge](https://img.shields.io/badge/-lnov.sergey@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lnov.sergey@gmail.com)](mailto:lnov.sergey@gmail.com)
