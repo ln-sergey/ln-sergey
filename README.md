@@ -6,9 +6,18 @@
 - 🔭  I’m currently working at [Vmuzey](https://vmuzey.com/).
 - 📖  As an always learner, I'm curious to learn a bit of everything.
 - 💙  I enjoy creating pet project with implementation of an interesting methodologies in them.
-- 📫  How to reach me: [Email](mailto:lnov.sergey@gmail.com)
 - 😄  Pronouns: He/His
 - 🤫  Fun fact: my favourite language is Russian.
+
+-------
+
+[![Linkedin Badge](https://img.shields.io/badge/-sergey--lobanov-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergey--lobanov/)](https://www.linkedin.com/in/logunovdanila/)
+[![Telegram Badge](https://img.shields.io/badge/-ln__sergey-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/ln_sergey)](https://t.me/ln_sergey)
+[![Instagram Badge](https://img.shields.io/badge/-ln__sergey-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ln_sergey/)](https://www.instagram.com/ln_sergey/)
+[![Gmail Badge](https://img.shields.io/badge/-lnov.sergey@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lnov.sergey@gmail.com)](mailto:lnov.sergey@gmail.com)
+[![VK Badge](https://img.shields.io/badge/-Серёжа&#32;Лобанов-blue?style=for-the-badge&logo=VK&logoColor=white&link=https://vk.com/ln_sergey)](https://vk.com/ln_sergey)
+
+-------
 
 **Languages and Tools:**  
 
@@ -20,4 +29,8 @@
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ln-sergey&count_private=true&theme=buefy&show_icons=true)](https://github.com/ln-sergey)
+-------
+
+All Contributions             |  Top Languages
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=ln-sergey&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DLogunoff&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html,css)
