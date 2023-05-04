@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-### I'm Sergey, a passionate Mobile Developer currently mostly working with Flutter.
+### I'm Sergey, a passionate Backend and Mobile Developer currently mostly working with NodeJS.
 
-- 👨‍💻  I'm a **Mobile Engineer** from Saint-Petersburg.
-- 🔭  I’m currently working at [Vmuzey](https://vmuzey.com/).
+- 👨‍💻  I'm a **Sofrware Engineer** from Saint-Petersburg.
+- 🔭  I’m currently working as backend developer at [Vmuzey](https://vmuzey.com/).
 - 📖  As an always learner, I'm curious to learn a bit of everything.
 - 💙  I enjoy creating pet project with implementation of an interesting methodologies in them.
 - 😄  Pronouns: He/His
