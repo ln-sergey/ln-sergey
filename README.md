@@ -6,8 +6,6 @@
 - 🔭  I’m currently working as backend developer at [Vmuzey](https://vmuzey.com/).
 - 📖  As an always learner, I'm curious to learn a bit of everything.
 - 💙  I enjoy creating pet project with implementation of an interesting methodologies in them.
-- 😄  Pronouns: He/His
-- 🤫  Fun fact: my favourite language is Russian.
 
 -------
 
